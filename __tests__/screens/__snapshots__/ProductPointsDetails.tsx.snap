@@ -1,0 +1,279 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ProductPointsDetails renders ProductPointsDetails correctly 1`] = `
+<RCTSafeAreaView
+  style={
+    {
+      "backgroundColor": "#EAEAEA",
+      "flex": 1,
+    }
+  }
+>
+  <View
+    style={
+      {
+        "backgroundColor": "#CFD6FF",
+        "flex": 0.8,
+        "justifyContent": "flex-end",
+        "marginBottom": 5,
+      }
+    }
+  >
+    <Text
+      numberOfLines={1}
+      style={
+        [
+          {
+            "color": "#020202",
+            "fontFamily": "AvenirBlack",
+            "fontWeight": "bold",
+          },
+          {
+            "fontFamily": undefined,
+            "fontSize": 22,
+          },
+          {
+            "marginBottom": 15,
+            "marginLeft": 10,
+          },
+        ]
+      }
+    >
+      string
+    </Text>
+  </View>
+  <View
+    style={
+      {
+        "alignItems": "center",
+        "backgroundColor": "white",
+        "borderRadius": 10,
+        "borderWidth": 0.1,
+        "elevation": 5,
+        "flex": 2.8,
+        "justifyContent": "center",
+        "marginHorizontal": 15,
+        "marginVertical": 10,
+        "shadowOffset": {
+          "height": 10,
+          "width": 0,
+        },
+        "shadowOpacity": 0.5,
+        "shadowRadius": 5,
+      }
+    }
+  >
+    <View
+      style={
+        [
+          {
+            "overflow": "hidden",
+          },
+          {
+            "borderRadius": 5,
+            "height": 200,
+            "marginRight": 10,
+            "width": 200,
+          },
+        ]
+      }
+    >
+      <FastImageView
+        defaultSource={null}
+        resizeMode="contain"
+        source={
+          {
+            "priority": "normal",
+            "uri": "string",
+          }
+        }
+        style={
+          {
+            "bottom": 0,
+            "left": 0,
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+          }
+        }
+        testID="productImage"
+      />
+    </View>
+  </View>
+  <View
+    style={
+      {
+        "flex": 1.7,
+        "justifyContent": "flex-start",
+      }
+    }
+  >
+    <Text
+      numberOfLines={1}
+      style={
+        [
+          {
+            "color": "#9B9898",
+            "fontFamily": "AvenirBlack",
+            "fontWeight": "bold",
+          },
+          {
+            "fontFamily": undefined,
+            "fontSize": 14,
+          },
+          {
+            "marginLeft": 15,
+            "marginTop": 17,
+          },
+        ]
+      }
+    >
+      Detalles del Producto
+    </Text>
+    <Text
+      numberOfLines={1}
+      style={
+        [
+          {
+            "color": "#020202",
+            "fontFamily": "AvenirBlack",
+            "fontWeight": "bold",
+          },
+          {
+            "fontFamily": undefined,
+            "fontSize": 14,
+          },
+          {
+            "marginLeft": 15,
+            "marginVertical": 19,
+          },
+        ]
+      }
+    >
+      string
+    </Text>
+    <Text
+      numberOfLines={1}
+      style={
+        [
+          {
+            "color": "#9B9898",
+            "fontFamily": "AvenirBlack",
+            "fontWeight": "bold",
+          },
+          {
+            "fontFamily": undefined,
+            "fontSize": 14,
+          },
+          {
+            "marginBottom": 25,
+            "marginLeft": 15,
+          },
+        ]
+      }
+    >
+      Con esta compra acumulaste:
+    </Text>
+    <Text
+      numberOfLines={1}
+      style={
+        [
+          {
+            "color": "#020202",
+            "fontFamily": "AvenirBlack",
+            "fontWeight": "bold",
+          },
+          {
+            "fontFamily": undefined,
+            "fontSize": 22,
+          },
+          {
+            "marginBottom": 25,
+            "marginLeft": 15,
+          },
+        ]
+      }
+    >
+      0
+       
+       puntos
+    </Text>
+  </View>
+  <View
+    style={
+      {
+        "alignItems": "stretch",
+        "flex": 0.8,
+        "justifyContent": "center",
+      }
+    }
+  >
+    <View
+      style={
+        {
+          "alignItems": "stretch",
+          "flex": 1,
+          "justifyContent": "center",
+        }
+      }
+    >
+      <View
+        accessibilityState={
+          {
+            "busy": undefined,
+            "checked": undefined,
+            "disabled": undefined,
+            "expanded": undefined,
+            "selected": undefined,
+          }
+        }
+        accessibilityValue={
+          {
+            "max": undefined,
+            "min": undefined,
+            "now": undefined,
+            "text": undefined,
+          }
+        }
+        accessible={true}
+        collapsable={false}
+        focusable={true}
+        onClick={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          {
+            "alignItems": "center",
+            "backgroundColor": "#334FFA",
+            "borderRadius": 10,
+            "height": 45,
+            "justifyContent": "center",
+            "marginHorizontal": 20,
+            "opacity": 1,
+          }
+        }
+      >
+        <Text>
+          <Text
+            style={
+              [
+                {
+                  "color": "white",
+                  "fontWeight": "bold",
+                },
+                undefined,
+              ]
+            }
+          >
+            Aceptar
+          </Text>
+        </Text>
+      </View>
+    </View>
+  </View>
+</RCTSafeAreaView>
+`;

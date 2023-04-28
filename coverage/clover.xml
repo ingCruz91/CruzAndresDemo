@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1682699243692" clover="3.2.0">
+  <project timestamp="1682699243692" name="All files">
+    <metrics statements="92" coveredstatements="85" conditionals="27" coveredconditionals="21" methods="35" coveredmethods="29" elements="154" coveredelements="135" complexity="0" loc="92" ncloc="92" packages="7" files="16" classes="16"/>
+    <package name="Utils">
+      <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="constants.ts" path="/Users/andy/Documents/GitHub/cruzAndresDemo/src/Utils/constants.ts">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="7" type="stmt"/>
+        <line num="18" count="7" type="stmt"/>
+      </file>
+      <file name="utils.ts" path="/Users/andy/Documents/GitHub/cruzAndresDemo/src/Utils/utils.ts">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="2" count="4" type="stmt"/>
+        <line num="7" count="4" type="stmt"/>
+        <line num="8" count="4" type="stmt"/>
+      </file>
+    </package>
+    <package name="components.Product">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="ProductButton.tsx" path="/Users/andy/Documents/GitHub/cruzAndresDemo/src/components/Product/ProductButton.tsx">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="16" count="2" type="stmt"/>
+        <line num="17" count="7" type="stmt"/>
+        <line num="28" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="components.Product.ProductPoints">
+      <metrics statements="20" coveredstatements="20" conditionals="4" coveredconditionals="4" methods="8" coveredmethods="8"/>
+      <file name="FilterButtons.tsx" path="/Users/andy/Documents/GitHub/cruzAndresDemo/src/components/Product/ProductPoints/FilterButtons.tsx">
+        <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="11" count="1" type="stmt"/>
+        <line num="12" count="10" type="stmt"/>
+        <line num="16" count="4" type="stmt"/>
+        <line num="28" count="1" type="stmt"/>
+      </file>
+      <file name="ProductItem.tsx" path="/Users/andy/Documents/GitHub/cruzAndresDemo/src/components/Product/ProductPoints/ProductItem.tsx">
+        <metrics statements="6" coveredstatements="6" conditionals="4" coveredconditionals="4" methods="2" coveredmethods="2"/>
+        <line num="12" count="3" type="stmt"/>
+        <line num="14" count="3" type="stmt"/>
+        <line num="16" count="3" type="stmt"/>
+        <line num="19" count="1" type="stmt"/>
+        <line num="27" count="3" type="stmt"/>
+        <line num="69" count="3" type="stmt"/>
+      </file>
+      <file name="ProductPointsCard.tsx" path="/Users/andy/Documents/GitHub/cruzAndresDemo/src/components/Product/ProductPoints/ProductPointsCard.tsx">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="9" count="2" type="stmt"/>
+        <line num="10" count="17" type="stmt"/>
+        <line num="27" count="2" type="stmt"/>
+      </file>
+      <file name="ProductPointsList.tsx" path="/Users/andy/Documents/GitHub/cruzAndresDemo/src/components/Product/ProductPoints/ProductPointsList.tsx">
+        <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="11" count="2" type="stmt"/>
+        <line num="12" count="18" type="stmt"/>
+        <line num="22" count="1" type="stmt"/>
+        <line num="32" count="2" type="stmt"/>
+      </file>
+      <file name="WelcomeBackUser.tsx" path="/Users/andy/Documents/GitHub/cruzAndresDemo/src/components/Product/ProductPoints/WelcomeBackUser.tsx">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="6" count="2" type="stmt"/>
+        <line num="7" count="17" type="stmt"/>
+        <line num="19" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="components.Product.ProductPointsDetails">
+      <metrics statements="9" coveredstatements="9" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+      <file name="ProductImage.tsx" path="/Users/andy/Documents/GitHub/cruzAndresDemo/src/components/Product/ProductPointsDetails/ProductImage.tsx">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="9" count="2" type="stmt"/>
+        <line num="10" count="2" type="stmt"/>
+        <line num="25" count="2" type="stmt"/>
+      </file>
+      <file name="ProductInformation.tsx" path="/Users/andy/Documents/GitHub/cruzAndresDemo/src/components/Product/ProductPointsDetails/ProductInformation.tsx">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="11" count="2" type="stmt"/>
+        <line num="15" count="2" type="stmt"/>
+        <line num="33" count="2" type="stmt"/>
+      </file>
+      <file name="ProductName.tsx" path="/Users/andy/Documents/GitHub/cruzAndresDemo/src/components/Product/ProductPointsDetails/ProductName.tsx">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="9" count="2" type="stmt"/>
+        <line num="10" count="2" type="stmt"/>
+        <line num="19" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="components.custom">
+      <metrics statements="17" coveredstatements="16" conditionals="9" coveredconditionals="8" methods="8" coveredmethods="7"/>
+      <file name="CustomButton.tsx" path="/Users/andy/Documents/GitHub/cruzAndresDemo/src/components/custom/CustomButton.tsx">
+        <metrics statements="6" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="2"/>
+        <line num="17" count="2" type="stmt"/>
+        <line num="18" count="27" type="stmt"/>
+        <line num="25" count="2" type="stmt"/>
+        <line num="26" count="27" type="stmt"/>
+        <line num="37" count="2" type="stmt"/>
+        <line num="43" count="0" type="stmt"/>
+      </file>
+      <file name="CustomLabel.tsx" path="/Users/andy/Documents/GitHub/cruzAndresDemo/src/components/custom/CustomLabel.tsx">
+        <metrics statements="11" coveredstatements="11" conditionals="9" coveredconditionals="8" methods="5" coveredmethods="5"/>
+        <line num="13" count="8" type="stmt"/>
+        <line num="21" count="3" type="stmt"/>
+        <line num="29" count="8" type="stmt"/>
+        <line num="36" count="34" type="stmt"/>
+        <line num="44" count="8" type="stmt"/>
+        <line num="51" count="32" type="stmt"/>
+        <line num="60" count="8" type="stmt"/>
+        <line num="67" count="20" type="stmt"/>
+        <line num="76" count="8" type="stmt"/>
+        <line num="83" count="39" type="stmt"/>
+        <line num="92" count="8" type="stmt"/>
+      </file>
+    </package>
+    <package name="hooks">
+      <metrics statements="15" coveredstatements="13" conditionals="2" coveredconditionals="1" methods="3" coveredmethods="3"/>
+      <file name="useProductData.ts" path="/Users/andy/Documents/GitHub/cruzAndresDemo/src/hooks/useProductData.ts">
+        <metrics statements="15" coveredstatements="13" conditionals="2" coveredconditionals="1" methods="3" coveredmethods="3"/>
+        <line num="4" count="2" type="stmt"/>
+        <line num="5" count="18" type="stmt"/>
+        <line num="7" count="18" type="stmt"/>
+        <line num="8" count="9" type="stmt"/>
+        <line num="9" count="9" type="stmt"/>
+        <line num="10" count="9" type="stmt"/>
+        <line num="11" count="9" type="stmt"/>
+        <line num="12" count="9" type="stmt"/>
+        <line num="13" count="1" type="stmt"/>
+        <line num="14" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="15" count="0" type="stmt"/>
+        <line num="17" count="1" type="stmt"/>
+        <line num="19" count="0" type="stmt"/>
+        <line num="23" count="9" type="stmt"/>
+        <line num="26" count="18" type="stmt"/>
+      </file>
+    </package>
+    <package name="screens">
+      <metrics statements="23" coveredstatements="19" conditionals="12" coveredconditionals="8" methods="11" coveredmethods="6"/>
+      <file name="ProductPoints.tsx" path="/Users/andy/Documents/GitHub/cruzAndresDemo/src/screens/ProductPoints.tsx">
+        <metrics statements="18" coveredstatements="15" conditionals="12" coveredconditionals="8" methods="9" coveredmethods="5"/>
+        <line num="21" count="16" type="stmt"/>
+        <line num="23" count="16" type="stmt"/>
+        <line num="24" count="16" type="stmt"/>
+        <line num="26" count="16" type="stmt"/>
+        <line num="27" count="16" type="stmt"/>
+        <line num="30" count="16" type="stmt"/>
+        <line num="31" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="33" count="16" type="stmt"/>
+        <line num="35" count="16" type="stmt"/>
+        <line num="43" count="4" type="stmt"/>
+        <line num="44" count="4" type="cond" truecount="1" falsecount="1"/>
+        <line num="45" count="0" type="stmt"/>
+        <line num="50" count="2" type="stmt"/>
+        <line num="51" count="2" type="cond" truecount="1" falsecount="1"/>
+        <line num="52" count="0" type="stmt"/>
+        <line num="56" count="16" type="stmt"/>
+        <line num="72" count="2" type="stmt"/>
+        <line num="79" count="1" type="stmt"/>
+      </file>
+      <file name="ProductPointsDetails.tsx" path="/Users/andy/Documents/GitHub/cruzAndresDemo/src/screens/ProductPointsDetails.tsx">
+        <metrics statements="5" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="1"/>
+        <line num="17" count="1" type="stmt"/>
+        <line num="20" count="1" type="stmt"/>
+        <line num="22" count="1" type="stmt"/>
+        <line num="33" count="0" type="stmt"/>
+        <line num="43" count="1" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>

@@ -1,0 +1,353 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ProductPoints renders ProductPoints correctly 1`] = `
+<RCTSafeAreaView
+  style={
+    {
+      "backgroundColor": "#EAEAEA",
+      "borderColor": "pink",
+      "borderWidth": 1,
+      "flex": 1,
+    }
+  }
+>
+  <View
+    style={
+      {
+        "flex": 0.6,
+        "marginLeft": 15,
+      }
+    }
+  >
+    <Text
+      numberOfLines={1}
+      style={
+        [
+          {
+            "color": "#020202",
+            "fontFamily": "AvenirBlack",
+            "fontWeight": "bold",
+          },
+          {
+            "fontFamily": undefined,
+            "fontSize": 16,
+          },
+          undefined,
+        ]
+      }
+    >
+      Bienvenido de Vuelta!!
+    </Text>
+    <Text
+      numberOfLines={1}
+      style={
+        [
+          {
+            "color": "#020202",
+            "fontFamily": "AvenirRoman",
+          },
+          {
+            "fontFamily": undefined,
+            "fontSize": undefined,
+          },
+          undefined,
+        ]
+      }
+    >
+      Ruben Rodriguez
+    </Text>
+  </View>
+  <View
+    style={
+      {
+        "alignItems": "stretch",
+        "flex": 2.4,
+      }
+    }
+  >
+    <Text
+      numberOfLines={1}
+      style={
+        [
+          {
+            "color": "#9B9898",
+            "fontFamily": "AvenirBlack",
+            "fontWeight": "bold",
+          },
+          {
+            "fontFamily": undefined,
+            "fontSize": 14,
+          },
+          {
+            "alignSelf": "flex-start",
+            "fontSize": 14,
+            "marginBottom": 15,
+            "marginLeft": 15,
+            "marginTop": 10,
+          },
+        ]
+      }
+    >
+      TUS PUNTOS
+    </Text>
+    <View
+      style={
+        {
+          "alignItems": "center",
+          "backgroundColor": "#334FFA",
+          "borderRadius": 20,
+          "elevation": 5,
+          "flex": 1,
+          "marginBottom": 10,
+          "marginHorizontal": 50,
+          "shadowOffset": {
+            "height": 6,
+            "width": 0,
+          },
+          "shadowOpacity": 0.5,
+          "shadowRadius": 5,
+        }
+      }
+    >
+      <Text
+        numberOfLines={1}
+        style={
+          [
+            {
+              "color": "white",
+              "fontFamily": "AvenirBlack",
+              "fontWeight": "bold",
+            },
+            {
+              "fontFamily": undefined,
+              "fontSize": 16,
+            },
+            {
+              "alignSelf": "flex-start",
+              "marginBottom": 10,
+              "marginLeft": 19,
+              "marginTop": 15,
+            },
+          ]
+        }
+      >
+        Diciembre
+      </Text>
+      <Text
+        numberOfLines={1}
+        style={
+          [
+            {
+              "color": "white",
+              "fontFamily": "AvenirBlack",
+              "fontWeight": "bold",
+            },
+            {
+              "fontFamily": undefined,
+              "fontSize": 29,
+            },
+            undefined,
+          ]
+        }
+      >
+        0  pts
+      </Text>
+    </View>
+  </View>
+  <View
+    style={
+      {
+        "borderRadius": 10,
+        "flex": 4.5,
+      }
+    }
+  >
+    <Text
+      numberOfLines={1}
+      style={
+        [
+          {
+            "color": "#9B9898",
+            "fontFamily": "AvenirBlack",
+            "fontWeight": "bold",
+          },
+          {
+            "fontFamily": undefined,
+            "fontSize": 14,
+          },
+          {
+            "alignSelf": "flex-start",
+            "fontSize": 14,
+            "marginBottom": 15,
+            "marginLeft": 15,
+            "marginTop": 10,
+          },
+        ]
+      }
+    >
+      MOVIMIENTOS
+    </Text>
+    <View
+      style={
+        {
+          "backgroundColor": "white",
+          "borderRadius": 20,
+          "flex": 1,
+          "marginBottom": 10,
+          "marginHorizontal": 15,
+          "paddingBottom": 20,
+          "paddingTop": 20,
+        }
+      }
+    >
+      <RCTScrollView
+        data={null}
+        getItem={[Function]}
+        getItemCount={[Function]}
+        initialNumToRender={5}
+        keyExtractor={[Function]}
+        maxToRenderPerBatch={5}
+        onContentSizeChange={[Function]}
+        onLayout={[Function]}
+        onMomentumScrollBegin={[Function]}
+        onMomentumScrollEnd={[Function]}
+        onScroll={[Function]}
+        onScrollBeginDrag={[Function]}
+        onScrollEndDrag={[Function]}
+        removeClippedSubviews={false}
+        renderItem={[Function]}
+        scrollEventThrottle={50}
+        stickyHeaderIndices={[]}
+        testID="flatListTest"
+        viewabilityConfigCallbackPairs={[]}
+      >
+        <View />
+      </RCTScrollView>
+    </View>
+  </View>
+  <View
+    style={
+      {
+        "alignItems": "center",
+        "flex": 1,
+        "flexDirection": "row",
+      }
+    }
+  >
+    <View
+      accessibilityState={
+        {
+          "busy": undefined,
+          "checked": undefined,
+          "disabled": undefined,
+          "expanded": undefined,
+          "selected": undefined,
+        }
+      }
+      accessibilityValue={
+        {
+          "max": undefined,
+          "min": undefined,
+          "now": undefined,
+          "text": undefined,
+        }
+      }
+      accessible={true}
+      collapsable={false}
+      focusable={true}
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        {
+          "alignItems": "center",
+          "backgroundColor": "#334FFA",
+          "borderRadius": 10,
+          "flex": 1,
+          "height": 45,
+          "justifyContent": "center",
+          "marginHorizontal": 15,
+          "opacity": 1,
+        }
+      }
+    >
+      <Text>
+        <Text
+          style={
+            [
+              {
+                "color": "white",
+                "fontWeight": "bold",
+              },
+              undefined,
+            ]
+          }
+        >
+          Ganados
+        </Text>
+      </Text>
+    </View>
+    <View
+      accessibilityState={
+        {
+          "busy": undefined,
+          "checked": undefined,
+          "disabled": undefined,
+          "expanded": undefined,
+          "selected": undefined,
+        }
+      }
+      accessibilityValue={
+        {
+          "max": undefined,
+          "min": undefined,
+          "now": undefined,
+          "text": undefined,
+        }
+      }
+      accessible={true}
+      collapsable={false}
+      focusable={true}
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        {
+          "alignItems": "center",
+          "backgroundColor": "#334FFA",
+          "borderRadius": 10,
+          "flex": 1,
+          "height": 45,
+          "justifyContent": "center",
+          "marginHorizontal": 15,
+          "opacity": 1,
+        }
+      }
+    >
+      <Text>
+        <Text
+          style={
+            [
+              {
+                "color": "white",
+                "fontWeight": "bold",
+              },
+              undefined,
+            ]
+          }
+        >
+          Canjeados
+        </Text>
+      </Text>
+    </View>
+  </View>
+</RCTSafeAreaView>
+`;
