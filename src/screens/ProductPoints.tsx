@@ -80,8 +80,6 @@ const styles = StyleSheet.create({
   appContainer: {
     backgroundColor: '#EAEAEA',
     flex: 1,
-    borderWidth: 1,
-    borderColor: 'pink',
   },
 });
 
